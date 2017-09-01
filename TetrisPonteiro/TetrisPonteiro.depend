@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1500172801 source:c:\users\teresacristina\desktop\tetrisponteiro\apagar linha.c
+	<stdio.h>
+	<stdlib.h>
+	"apagarLinha.h"
+
+1500172839 c:\users\teresacristina\desktop\tetrisponteiro\apagarlinha.h
+
+1499807797 source:c:\users\teresacristina\desktop\tetrisponteiro\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1499808401 c:\users\teresacristina\desktop\tetrisponteiro\gotoxy.h
+
+1499283546 source:c:\users\teresacristina\desktop\tetrisponteiro\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"menu.h"
+	"jogo.h"
+
+1499283494 c:\users\teresacristina\desktop\tetrisponteiro\menu.h
+
+1499283562 c:\users\teresacristina\desktop\tetrisponteiro\jogo.h
+
+1500172847 source:c:\users\teresacristina\desktop\tetrisponteiro\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"pecas.h"
+	"verificaQuadrado.h"
+	"jogo.h"
+	"rotacao.h"
+	"pecas.h"
+	"limpa.h"
+	"gotoxy.h"
+	"translocar.h"
+	"tabuleiro.h"
+	"localPeca.h"
+	"apagarLinha.h"
+	"localPeca.h"
+	"movimentoPeca.h"
+	"menu.h"
+	"ranking.h"
+
+1499283504 c:\users\teresacristina\desktop\tetrisponteiro\pecas.h
+
+1499283528 c:\users\teresacristina\desktop\tetrisponteiro\verificaquadrado.h
+
+1499283516 c:\users\teresacristina\desktop\tetrisponteiro\rotacao.h
+
+1499283570 c:\users\teresacristina\desktop\tetrisponteiro\limpa.h
+
+1499283524 c:\users\teresacristina\desktop\tetrisponteiro\translocar.h
+
+1499283520 c:\users\teresacristina\desktop\tetrisponteiro\tabuleiro.h
+
+1499394732 c:\users\teresacristina\desktop\tetrisponteiro\localpeca.h
+
+1499393558 c:\users\teresacristina\desktop\tetrisponteiro\movimentopeca.h
+
+1499283510 c:\users\teresacristina\desktop\tetrisponteiro\ranking.h
+
+1499283566 source:c:\users\teresacristina\desktop\tetrisponteiro\limpa.c
+	<stdio.h>
+	<stdlib.h>
+	"limpa.h"
+
+1499808111 source:c:\users\teresacristina\desktop\tetrisponteiro\local peca.c
+	<stdio.h>
+	<stdlib.h>
+	"localPeca.h"
+	"gotoxy.h"
+
+1499283576 source:c:\users\teresacristina\desktop\tetrisponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1499283578 source:c:\users\teresacristina\desktop\tetrisponteiro\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"instrucoes.h"
+	"jogo.h"
+	"ranking.h"
+	"menu.h"
+
+1499283550 c:\users\teresacristina\desktop\tetrisponteiro\instrucoes.h
+
+1500172683 source:c:\users\teresacristina\desktop\tetrisponteiro\movimento peca.c
+	<stdio.h>
+	<stdlib.h>
+	"movimentoPeca.h"
+	"tabuleiro.h"
+	"localPeca.h"
+
+1499808184 source:c:\users\teresacristina\desktop\tetrisponteiro\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pecas.h"
+	"gotoxy.h"
+
+1499283506 source:c:\users\teresacristina\desktop\tetrisponteiro\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+	"jogo.h"
+
+1499394668 source:c:\users\teresacristina\desktop\tetrisponteiro\rotacao.c
+	<stdio.h>
+	<stdlib.h>
+	"rotacao.h"
+	"localPeca.h"
+
+1499807922 source:c:\users\teresacristina\desktop\tetrisponteiro\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+
+1499394428 source:c:\users\teresacristina\desktop\tetrisponteiro\translocar.c
+	<stdio.h>
+	<stdlib.h>
+	"translocar.h"
+	"limpa.h"
+	"localPeca.h"
+
+1499283526 source:c:\users\teresacristina\desktop\tetrisponteiro\verifica quadrado.c
+	<stdio.h>
+	<stdlib.h>
+	"verificaQuadrado.h"
+
+1501861151 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1501861143 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\gotoxy.h
+
+1499283546 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"menu.h"
+	"jogo.h"
+
+1499283494 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\menu.h
+
+1499283562 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\jogo.h
+
+1501867741 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"pecas.h"
+	"verificaQuadrado.h"
+	"jogo.h"
+	"rotacao.h"
+	"pecas.h"
+	"limpa.h"
+	"gotoxy.h"
+	"translocar.h"
+	"tabuleiro.h"
+	"localPeca.h"
+	"apagarLinha.h"
+	"localPeca.h"
+	"movimentoPeca.h"
+	"menu.h"
+	"ranking.h"
+
+1499283504 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\pecas.h
+
+1499283528 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\verificaquadrado.h
+
+1499283516 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\rotacao.h
+
+1499283570 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\limpa.h
+
+1499283524 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\translocar.h
+
+1499283520 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\tabuleiro.h
+
+1499394732 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\localpeca.h
+
+1500172839 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\apagarlinha.h
+
+1499393558 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\movimentopeca.h
+
+1499283510 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\ranking.h
+
+1499283566 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\limpa.c
+	<stdio.h>
+	<stdlib.h>
+	"limpa.h"
+
+1501867736 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\local peca.c
+	<stdio.h>
+	<stdlib.h>
+	"localPeca.h"
+	"gotoxy.h"
+
+1499283576 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1501860681 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"instrucoes.h"
+	"jogo.h"
+	"ranking.h"
+	"menu.h"
+
+1499283550 c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\instrucoes.h
+
+1500172683 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\movimento peca.c
+	<stdio.h>
+	<stdlib.h>
+	"movimentoPeca.h"
+	"tabuleiro.h"
+	"localPeca.h"
+
+1501860792 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pecas.h"
+	"gotoxy.h"
+
+1499283506 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+	"jogo.h"
+
+1501867706 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\rotacao.c
+	<stdio.h>
+	<stdlib.h>
+	"rotacao.h"
+	"localPeca.h"
+
+1501867770 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\translocar.c
+	<stdio.h>
+	<stdlib.h>
+	"translocar.h"
+	"limpa.h"
+	"localPeca.h"
+
+1501868201 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\verifica quadrado.c
+	<stdio.h>
+	<stdlib.h>
+	"verificaQuadrado.h"
+
+1501867720 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\apagar linha.c
+	<stdio.h>
+	<stdlib.h>
+	"apagarLinha.h"
+	"gotoxy.h"
+
+1501867713 source:c:\users\teresacristina\desktop\poli\1° período\tetrisponteiro\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"gotoxy.h"
+
