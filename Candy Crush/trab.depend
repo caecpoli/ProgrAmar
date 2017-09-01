@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1477330202 source:c:\users\aluno.win-ot9k4kmki2a\desktop\trab\main.c
+	<stdlib.h>
+	"funcoes.h"
+	"F_MENU.h"
+
+1477324944 source:c:\users\aluno.win-ot9k4kmki2a\desktop\trab\funcoes.c
+	"funcoes.h"
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1477324944 c:\users\aluno.win-ot9k4kmki2a\desktop\trab\funcoes.h
+
+1477415968 source:c:\users\aluno.win-ot9k4kmki2a\desktop\trab\f_menu.c
+	"F_MENU.h"
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1477415966 c:\users\aluno.win-ot9k4kmki2a\desktop\trab\f_menu.h
+
+1477329859 source:c:\users\aluno.win-ot9k4kmki2a\desktop\trab\f_game.c
+	"F_GAME.h"
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1477329859 c:\users\aluno.win-ot9k4kmki2a\desktop\trab\f_game.h
+
+1481308200 source:c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\f_game.c
+	"COMPLEMENTO.h"
+	"F_MENU.h"
+	"funcoes.h"
+	"F_GAME.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1481254505 c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\f_game.h
+
+1481307593 source:c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\f_menu.c
+	"COMPLEMENTO.h"
+	"F_GAME.h"
+	"funcoes.h"
+	"F_MENU.h"
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1481057838 c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\f_menu.h
+
+1480715043 source:c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\funcoes.c
+	"COMPLEMENTO.h"
+	"funcoes.h"
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1480715209 c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\funcoes.h
+
+1479186338 source:c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\main.c
+	<stdlib.h>
+	"F_MENU.h"
+
+1481308214 source:c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\complemento.c
+	"funcoes.h"
+	"F_MENU.h"
+	"COMPLEMENTO.h"
+	"F_GAME.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1481308200 c:\users\aluno.win-ot9k4kmki2a\desktop\as_diferenciadas\trab\complemento.h
+

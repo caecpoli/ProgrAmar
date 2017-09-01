@@ -1,0 +1,37 @@
+
+
+
+             ============================== CANDY CRUSH ==============================
+             |                                                                       |
+             |                                                                       |
+             |   Candy Crush eh um jogo de combinacoes, onde se pode fazer pontos    |
+             |                                                                       |
+	     | combinando sequencias de tres ou mais doces iguais, na vertical       |
+	     |                                                                       |
+	     | e na horizontal, quanto maior a sequencia maior sera a pontuacao.     |
+             |                                                                       |
+             |                                                                       |
+             |  Para jogar escolha uma coordenada (x,y) e outra coordenada (x1,y1)   |
+             |                                                                       |
+	     | a qual voce deseja trocar os doces de posicao, se houver combinacao   |
+             |                                                                       |
+             | a sequencia desaparecera e novos doces irao sugir,caso nao,a posicao  |
+             |                                                                       |
+             | apenas sera trocada.                                                  |
+             |                                                                       |
+	     |                                                                       |
+	     |   Existem tres niveis de dificuldade, quanto mais dificil, maior a    |
+             |                                                                       |
+  	     | pontuacao.                                                            |
+	     |                                                                       |
+	     |                                                                       |
+	     |                                                                       |
+	     |                                                                       |
+	     |                                                                       |
+	     |                                                                       |
+	     |                                                                       |
+	     |                                                                       |
+	     |                              Divirta-se                               |
+	     =========================================================================
+ 
+             Precione qualquer tecla para voltar...
