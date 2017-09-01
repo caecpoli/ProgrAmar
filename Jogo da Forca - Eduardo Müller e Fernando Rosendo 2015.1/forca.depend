@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1459779547 source:c:\users\theeam\desktop\forca\main.c
+	"scoreboard.h"
+	"config.h"
+	"desenho.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1459779332 c:\users\theeam\desktop\forca\scoreboard.h
+	<stdio.h>
+	<stdlib.h>
+
+1459779495 c:\users\theeam\desktop\forca\config.h
+	"temasconfig.h"
+	<stdio.h>
+	<stdlib.h>
+
+1459779469 c:\users\theeam\desktop\forca\temasconfig.h
+	<stdio.h>
+	<stdlib.h>
+
+1459779170 c:\users\theeam\desktop\forca\desenho.h
+	<stdio.h>
+	<stdlib.h>
+
